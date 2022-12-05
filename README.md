@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jude full stack developer
+- 👋 Hi, I’m Jude, i'm a full stack developer with over 5 years experience in developing web applications
 - 👀 I’m interested in developing software applications
 - 🌱 I’m currently learning adonisJs with TypeScript
 - 💞️ I’m looking to collaborate on any great ideas with potential 
