@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jude4 full stack developer
+- 👋 Hi, I’m Jude full stack developer
 - 👀 I’m interested in developing software applications
 - 🌱 I’m currently learning adonisJs with TypeScript
 - 💞️ I’m looking to collaborate on any great ideas with potential 
