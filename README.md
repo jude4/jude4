@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jude4 full stack developer
 - 👀 I’m interested in developing software applications
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning adonisJs with TypeScript
 - 💞️ I’m looking to collaborate on any great ideas with potential 
 - 📫 How to reach me ...
 
