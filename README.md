@@ -8,7 +8,6 @@ Full stack developer with 5+ years of experience in PHP, Laravel, JavaScript, Vu
 
 *   🌍  I'm based in Abuja
 *   ✉️  You can contact me at [judeufuomao@gmail.com](mailto:judeufuomao@gmail.com)
-*   🚀  I'm currently working on [Easycare](http://deve.easycare.africa)
 *   🧠  I'm learning Express Js
 *   ⚡  I'm open to collaborating on exciting and innovative projects that utilize my full stack development skills and allow me to learn and grow as a developer.### Skills 
 <p align="left">
