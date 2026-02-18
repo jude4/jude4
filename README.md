@@ -123,6 +123,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jude4&theme=dark&no-frame=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jude4&theme=darkhub&no-frame=true" alt="GitHub Trophies" />
   </a>
 </p>
