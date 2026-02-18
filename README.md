@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ufuoma Jude Onohwosafe</h1>
-<h3 align="center">Full Stack Software Engineer | Fintech & SaaS Specialist | AI Systems Enthusiast</h3>
+<h3 align="center">Senior Software Engineer | Fintech & SaaS Specialist | AI Systems Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jude4&label=Profile%20views&color=0e75b6&style=flat" alt="jude4" />
@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Software Engineer with 8+ years of experience** building scalable, high-performance web applications across fintech, SaaS, and eCommerce sectors. I specialize in designing clean backend architectures, optimizing system performance, and translating complex requirements into reliable, maintainable solutions.
+I'm a **Senior Software Engineer with 8+ years of experience** building scalable, high-performance web applications across fintech, SaaS, and eCommerce sectors. I specialize in designing clean backend architectures, optimizing system performance, and translating complex requirements into reliable, maintainable solutions.
 
 ### Key Strengths
 - **Backend Architecture**: Designing scalable, production-grade systems
