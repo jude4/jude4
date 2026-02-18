@@ -1,15 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ufuoma Jude Onohwosafe
 =======================================================================================================================================
 
-Full-stack developer
+Senior Software Engineer
 --------------------
 
-Full stack developer with 5+ years of experience in PHP, Laravel, JavaScript, Vue, React, Node.js, and Python. Proven ability to deliver high-quality, scalable, and maintainable code. Strong problem-solving skills and a focus on clean, efficient code. Experienced in working with cross-functional teams and a passion for learning new technologies.
+Senior Software Engineer with 8+ years of experience designing and building scalable, high‑quality systems. I specialize in full‑stack development, architecture design, and creating efficient, maintainable solutions. I also develop and integrate AI‑driven models and automation tools to enhance product capabilities. Known for strong problem‑solving skills, clean engineering practices, and effective collaboration across cross‑functional teams.
 
-*   🌍  I'm based in Abuja
+*   🌍  I'm based in Bucharest, Romania
 *   ✉️  You can contact me at [judeufuomao@gmail.com](mailto:judeufuomao@gmail.com)
-*   🧠  I'm learning Express Js
-*   ⚡  I'm open to collaborating on exciting and innovative projects that utilize my full stack development skills and allow me to learn and grow as a developer.### Skills 
+🧠 I’m currently deepening my expertise in building intelligent systems and exploring new ways to apply AI to real‑world problems.  
+⚡ I enjoy collaborating on innovative projects that involve AI, automation, or smart digital solutions, especially those that challenge me and push my skills forward as a Senior Software Engineer.
+### Skills 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -30,10 +31,8 @@ Full stack developer with 5+ years of experience in PHP, Laravel, JavaScript, Vu
                   
 
 <!---
-- 👋 Hi, I’m Jude, i'm a full stack developer with over 5 years experience in developing web applications
+- 👋 Hi, I’m Jude, I'm a Senior Software Engineer with over 8 years of experience in developing web applications
 - 👀 I’m interested in developing software applications and Artificial Intelligence applications.
-- 🌱 I’m currently learning adonisJs with TypeScript
-- 💞️ I’m looking to collaborate on any great ideas with potential 
 - 📫 How to reach me ...
 --->
 <!---
