@@ -24,7 +24,7 @@ I'm a **Senior Software Engineer with 8+ years of experience** building scalable
 
 ## 🚀 Current Focus
 
-🔭 **Building [Utilify.ng](https://utilify.ng)** - A digital platform focused on creating practical, user-centered solutions that simplify everyday processes through technology.
+🔭 **Building [Utilify.ng](https://utilify.ng)** - A platform for buying airtime, paying bills, renewing cable TV, booking travel, and funding your wallet instantly.
 
 Currently exploring advanced AI systems and intelligent software solutions to solve real-world problems at scale.
 
@@ -111,8 +111,9 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:judeufuomao@gmail.com">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+    <img align="center" src="https://cdn.simpleicons.org/gmail" alt="Email" height="30" width="40" />
   </a>
+
 </p>
 
 ---
